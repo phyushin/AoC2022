@@ -1,0 +1,5 @@
+each elf separates their own inv by using a blank line -- split on new line i guess
+
+- add up each elf's inventory
+- order their totals 
+- print highest total:
